@@ -1,4 +1,4 @@
-# AC Data Mining Project
+# AC Data Mining Project - G76
 
 ## Prerequisites
 
