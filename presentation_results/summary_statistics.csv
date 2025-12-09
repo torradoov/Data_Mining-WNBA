@@ -1,0 +1,5 @@
+Award,Test Years,Avg Winner Rank,Top-3 Accuracy,Avg Test AUC,Overfitting Gap
+MVP,6,3.67,66.7%,0.979,0.008
+DPOY,6,23.67,16.7%,0.867,0.008
+MIP,6,65.33,0.0%,0.597,0.009
+FMVP,5,33.40,20.0%,0.551,0.017
